@@ -2,4 +2,11 @@ div{
     background-color: tomato;
     padding: 10px;
     margin: 10px;
+    
+}
+.git{
+    background-color: rgb(206, 212, 218);
+}
+li{
+    color: red;
 }
